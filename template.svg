@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="765"
@@ -14,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="C:\Users\Sylae\drawing.svg">
+   sodipodi:docname="template.svg">
   <title
      id="title5151">Rail Template Map</title>
   <defs
@@ -104,11 +105,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="405.28357"
-     inkscape:cy="142.14727"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="499.09792"
+     inkscape:cy="263.73288"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5331"
      showgrid="false"
      borderlayer="false"
      inkscape:snap-global="true"
@@ -174,6 +175,23 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Rail Template Map</dc:title>
+        <cc:license
+           rdf:resource="LICENSE" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Icons (c) SPHAX http://bdcraft.net</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Calamity Refuge</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sylae Corell</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -349,11 +367,11 @@
        sodipodi:cy="804.75"
        sodipodi:rx="4.7149587"
        sodipodi:ry="4.7149587"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        transform="translate(0,60.237004)" />
     <path
        transform="matrix(0.62884086,0,0,0.62884086,199.78941,374.30232)"
-       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       d="m 542.99999,804.75 c 0,2.604 -2.11096,4.71496 -4.71496,4.71496 -2.604,0 -4.71495,-2.11096 -4.71495,-4.71496 0,-2.604 2.11095,-4.71496 4.71495,-4.71496 2.604,0 4.71496,2.11096 4.71496,4.71496 z"
        sodipodi:ry="4.7149587"
        sodipodi:rx="4.7149587"
        sodipodi:cy="804.75"
@@ -361,29 +379,407 @@
        id="path4265"
        style="fill:#000000;fill-opacity:1;stroke:none"
        sodipodi:type="arc" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-opacity:1"
-       id="rect4267"
-       width="162.5"
-       height="81.25"
-       x="350.32077"
-       y="879.42395" />
+    <g
+       id="g5353">
+      <rect
+         y="900.17395"
+         x="536.64417"
+         height="81.25"
+         width="162.5"
+         id="rect4267"
+         style="fill:none;stroke:#000000;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4269"
+         y="911.26233"
+         x="552.48218"
+         style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         xml:space="preserve"><tspan
+           y="911.26233"
+           x="552.48218"
+           id="tspan4271"
+           sodipodi:role="line">Station Name</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4273"
+         d="m 536.86292,914.92393 162.40625,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/diamond_block.png"
+         xlink:href="images/diamond_block.png"
+         y="900.96423"
+         x="538.28503"
+         id="image5161"
+         width="12.8"
+         height="12.8" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         xlink:href="images/emerald_block.png"
+         height="12.8"
+         width="12.8"
+         id="image5164"
+         x="684.91003"
+         y="916.25592" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         xlink:href="images/pumpkin_face_on.png"
+         y="916.25592"
+         x="669.16003"
+         id="image5172"
+         width="12.8"
+         height="12.8" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+         xlink:href="images/bucket_water.png"
+         height="12.8"
+         width="12.8"
+         id="image5174"
+         x="684.91003"
+         y="953.67255" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+         xlink:href="images/rail_normal.png"
+         y="967.33923"
+         x="684.91003"
+         id="image5176"
+         width="12.8"
+         height="12.8" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5178"
+         y="928.112"
+         x="558.83917"
+         style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         xml:space="preserve"><tspan
+           style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'"
+           y="928.112"
+           x="558.83917"
+           id="tspan5180"
+           sodipodi:role="line">Community Feature</tspan><tspan
+           style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'"
+           id="tspan5182"
+           y="938.112"
+           x="558.83917"
+           sodipodi:role="line">Player Home</tspan><tspan
+           style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'"
+           id="tspan5184"
+           y="948.112"
+           x="558.83917"
+           sodipodi:role="line">Village</tspan><tspan
+           style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'"
+           id="tspan5186"
+           y="958.112"
+           x="558.83917"
+           sodipodi:role="line">Locomotive Rewatering</tspan><tspan
+           style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'"
+           id="tspan5188"
+           y="968.112"
+           x="558.83917"
+           sodipodi:role="line">Number of Sidings</tspan></text>
+      <path
+         transform="translate(0,62.362004)"
+         inkscape:connector-curvature="0"
+         id="path5190"
+         d="m 558.5,863.375 -9.875,0 -3.75,-16.5"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(0,62.362004)"
+         inkscape:connector-curvature="0"
+         id="path5192"
+         d="m 611.75,873.875 57.25,0 4,-10"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(0,62.362004)"
+         inkscape:connector-curvature="0"
+         id="path5194"
+         d="m 587.5,883.625 99.25,0 5.875,-20.875"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(0,62.362004)"
+         inkscape:connector-curvature="0"
+         id="path5196"
+         d="m 656.625,893.625 28.375,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(0,62.362004)"
+         inkscape:connector-curvature="0"
+         id="path5198"
+         d="m 635,903.875 43.125,0 6.25,7.375"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5240"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Gotham Medium;font-style:normal;font-weight:normal;font-size:8px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans;text-anchor:middle;text-align:center"><flowRegion
+         id="flowRegion5242"><rect
+           id="rect5244"
+           width="129.93088"
+           height="63.462833"
+           x="234.93623"
+           y="725.54205"
+           style="font-style:normal;-inkscape-font-specification:Sans;font-size:8px" /></flowRegion><flowPara
+         id="flowPara5246" /></flowRoot>    <g
+       id="g5331">
+      <rect
+         style="fill:none;stroke:#000000;stroke-opacity:1"
+         id="rect5200"
+         width="162.5"
+         height="81.25"
+         x="233.64891"
+         y="771.83411" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         x="239.48692"
+         y="782.92249"
+         id="text5202"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5204"
+           x="239.48692"
+           y="782.92249">   Station Name</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 233.86766,786.58405 162.40625,0"
+         id="path5206"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/diamond_block.png"
+         xlink:href="images/diamond_block.png"
+         height="12.8"
+         width="12.8"
+         id="image5208"
+         x="235.28978"
+         y="772.62439" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         xlink:href="images/emerald_block.png"
+         y="787.91608"
+         x="381.91479"
+         id="image5210"
+         width="12.8"
+         height="12.8" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         xlink:href="images/pumpkin_face_on.png"
+         height="12.8"
+         width="12.8"
+         id="image5212"
+         x="366.16479"
+         y="787.91608" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+         xlink:href="images/bucket_water.png"
+         y="825.3327"
+         x="381.91479"
+         id="image5214"
+         width="12.8"
+         height="12.8" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+         xlink:href="images/rail_normal.png"
+         height="12.8"
+         width="12.8"
+         id="image5216"
+         x="381.91479"
+         y="838.99939" />
+      <flowRoot
+         transform="translate(0,62.362004)"
+         style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
+         id="flowRoot5248"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5250"><rect
+             style="font-size:8px;font-style:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Sans"
+             y="725.18854"
+             x="235.28978"
+             height="63.993164"
+             width="129.40054"
+             id="rect5252" /></flowRegion><flowPara
+           id="flowPara5254">Example text descriptive blurb thing. Delete unused sidings/diamond (remove 3 padding spaces on title) and set opacity 25% on unused icons.</flowPara></flowRoot>      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+         xlink:href="images/rail_normal.png"
+         y="838.99939"
+         x="367.29285"
+         id="image5256"
+         width="12.8"
+         height="12.8" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+         xlink:href="images/rail_normal.png"
+         height="12.8"
+         width="12.8"
+         id="image5258"
+         x="352.67087"
+         y="838.99939" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+         xlink:href="images/rail_normal.png"
+         y="838.99939"
+         x="338.04892"
+         id="image5260"
+         width="12.8"
+         height="12.8" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+         xlink:href="images/rail_normal.png"
+         height="12.8"
+         width="12.8"
+         id="image5262"
+         x="323.42697"
+         y="838.99939" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+         xlink:href="images/rail_normal.png"
+         y="838.99939"
+         x="308.80502"
+         id="image5264"
+         width="12.8"
+         height="12.8" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+         xlink:href="images/rail_normal.png"
+         height="12.8"
+         width="12.8"
+         id="image5266"
+         x="294.18304"
+         y="838.99939" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+         xlink:href="images/rail_normal.png"
+         y="838.99939"
+         x="279.5611"
+         id="image5268"
+         width="12.8"
+         height="12.8" />
+    </g>
+    <g
+       id="g5318"
+       transform="translate(0,27.223611)">
+      <rect
+         y="864.83411"
+         x="233.64891"
+         height="30.515089"
+         width="162.5"
+         id="rect5274"
+         style="fill:none;stroke:#000000;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5276"
+         y="875.92249"
+         x="239.48692"
+         style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         xml:space="preserve"><tspan
+           y="875.92249"
+           x="239.48692"
+           id="tspan5278"
+           sodipodi:role="line">   Station Name</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5280"
+         d="m 233.86766,879.58405 162.40625,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/diamond_block.png"
+         xlink:href="images/diamond_block.png"
+         y="865.62439"
+         x="235.28978"
+         id="image5282"
+         width="12.8"
+         height="12.8" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         xlink:href="images/emerald_block.png"
+         height="12.8"
+         width="12.8"
+         id="image5284"
+         x="381.91479"
+         y="880.91608" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         xlink:href="images/pumpkin_face_on.png"
+         y="880.91608"
+         x="366.91681"
+         id="image5286"
+         width="12.8"
+         height="12.8" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+         xlink:href="images/bucket_water.png"
+         height="12.8"
+         width="12.8"
+         id="image5288"
+         x="351.91885"
+         y="880.91608" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+         xlink:href="images/rail_normal.png"
+         y="880.91608"
+         x="234.92087"
+         id="image5302"
+         width="12.8"
+         height="12.8" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5314"
+         y="893.5495"
+         x="248.59186"
+         style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         xml:space="preserve"><tspan
+           style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'"
+           y="893.5495"
+           x="248.59186"
+           id="tspan5316"
+           sodipodi:role="line">x2</tspan></text>
+    </g>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
-       x="351.96164"
-       y="890.42395"
-       id="text4269"
+       style="font-size:12px;font-style:oblique;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="713.97449"
+       y="1007.991"
+       id="text5375"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4271"
-         x="351.96164"
-         y="890.42395">Station Name</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 350.53951,894.17393 162.40625,0"
-       id="path4273"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+         id="tspan5377"
+         x="713.97449"
+         y="1007.991">Map Revised 20 Dec 2013</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="234.17142"
+       y="860.73608"
+       id="text3104"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3106"
+         x="234.17142"
+         y="860.73608"
+         style="font-size:8px">SRS/&lt;World&gt;/&lt;STD&gt;/&lt;Station&gt;</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3108"
+       y="929.67902"
+       x="234.17142"
+       style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       xml:space="preserve"><tspan
+         style="font-size:8px"
+         y="929.67902"
+         x="234.17142"
+         id="tspan3110"
+         sodipodi:role="line">SRS/&lt;World&gt;/&lt;STD&gt;/&lt;Station&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="538.28503"
+       y="988.13666"
+       id="text3112"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3114"
+         x="538.28503"
+         y="988.13666"
+         style="font-size:8px">Ticket Identifier</tspan></text>
   </g>
 </svg>
