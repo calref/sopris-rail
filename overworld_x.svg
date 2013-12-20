@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="765"
+   height="990"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="overworld_x.svg">
+  <title
+     id="title5151">X Line to Xanadu</title>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Tail"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Tail"
+       style="overflow:visible">
+      <g
+         id="g3979"
+         transform="scale(-1.2)">
+        <path
+           id="path3981"
+           d="M -3.8048674,-3.9585227 L 0.54352094,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path3983"
+           d="M -1.2866832,-3.9585227 L 3.0617053,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path3985"
+           d="M 1.3053582,-3.9585227 L 5.6537466,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path3987"
+           d="M -3.8048674,4.1775838 L 0.54352094,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path3989"
+           d="M -1.2866832,4.1775838 L 3.0617053,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path3991"
+           d="M 1.3053582,4.1775838 L 5.6537466,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotS"
+       style="overflow:visible">
+      <path
+         id="path4010"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.2) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3946"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path3964"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="318.08057"
+     inkscape:cy="517.26174"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     borderlayer="false"
+     inkscape:snap-global="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-left="0"
+     units="in"
+     fit-margin-top="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="0,3.7092285e-006"
+       orientation="0,765"
+       id="guide4803" />
+    <sodipodi:guide
+       position="765,3.7092285e-006"
+       orientation="-990,0"
+       id="guide4805" />
+    <sodipodi:guide
+       position="765,990"
+       orientation="0,-765"
+       id="guide4807" />
+    <sodipodi:guide
+       position="0,990"
+       orientation="990,0"
+       id="guide4809" />
+    <sodipodi:guide
+       position="27,26.999821"
+       orientation="0,711"
+       id="guide4815" />
+    <sodipodi:guide
+       position="738,26.999821"
+       orientation="-936,0"
+       id="guide4817" />
+    <sodipodi:guide
+       position="738,962.99982"
+       orientation="0,-711"
+       id="guide4819" />
+    <sodipodi:guide
+       position="27,962.99982"
+       orientation="936,0"
+       id="guide4821" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="71.329397,918.08977"
+       id="guide4953" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>X Line to Xanadu</dc:title>
+        <cc:license
+           rdf:resource="LICENSE" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Icons (c) SPHAX http://bdcraft.net</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Calamity Refuge</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sylae Corell</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-62.362004)">
+    <g
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="SRSlogo"
+       transform="translate(-145.3259,-253.23402)"
+       inkscape:label="#text2985">
+      <path
+         d="m 238.71032,383.35305 c -2.61945,0 -4.56807,-0.82407 -5.84582,-2.47225 l 2.2231,-1.87863 c 0.53691,0.57513 1.10561,1.01282 1.70609,1.31305 0.60047,0.30023 1.28399,0.45035 2.05057,0.45035 0.60046,0 1.09235,-0.12778 1.47565,-0.38338 0.38327,-0.25558 0.57491,-0.59413 0.57492,-1.01562 -1e-5,-0.16611 -0.035,-0.31624 -0.10524,-0.45036 -0.0703,-0.13414 -0.19156,-0.26827 -0.36409,-0.4024 -0.17255,-0.13413 -0.40572,-0.27469 -0.69952,-0.42171 -0.2938,-0.14698 -0.66433,-0.30997 -1.11155,-0.48895 -0.43438,-0.17857 -0.84963,-0.37333 -1.24579,-0.58428 -0.39616,-0.21094 -0.74757,-0.4601 -1.05422,-0.74747 -0.30669,-0.28737 -0.54941,-0.61635 -0.72818,-0.98698 -0.17878,-0.37061 -0.26817,-0.80507 -0.26817,-1.3034 0,-0.68975 0.14369,-1.3062 0.43106,-1.84936 0.28736,-0.54314 0.67387,-1.00637 1.15952,-1.38967 0.48563,-0.38328 1.05101,-0.67707 1.69614,-0.88142 0.6451,-0.20429 1.32541,-0.30645 2.0409,-0.30646 1.16273,1e-5 2.14659,0.17888 2.95158,0.53663 0.80498,0.35774 1.49483,0.84329 2.06958,1.45663 l -2.03127,2.03125 c -0.51119,-0.47256 -1.01272,-0.83031 -1.50458,-1.07323 -0.4919,-0.24291 -1.06362,-0.36437 -1.71515,-0.36438 -0.62621,1e-5 -1.10854,0.14379 -1.44699,0.43134 -0.33845,0.28757 -0.50767,0.59746 -0.50767,0.92967 0,0.17897 0.0382,0.33552 0.11496,0.46965 0.0766,0.13414 0.20431,0.26505 0.3831,0.39274 0.17877,0.12771 0.41828,0.26184 0.71852,0.40239 0.30023,0.14057 0.6804,0.30678 1.14049,0.49861 0.4601,0.19146 0.88503,0.39578 1.27475,0.61296 0.38971,0.21717 0.72826,0.46634 1.01564,0.74746 0.28736,0.28113 0.51409,0.60701 0.6802,0.97762 0.1661,0.37062 0.24915,0.79864 0.24916,1.28409 -1e-5,0.70264 -0.14691,1.33186 -0.4407,1.88768 -0.29381,0.55584 -0.68353,1.02539 -1.16917,1.40868 -0.48565,0.38328 -1.05102,0.67397 -1.69613,0.87205 -0.64513,0.19806 -1.31901,0.2971 -2.02163,0.2971 z"
+         style="font-size:48px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gotham Bold;-inkscape-font-specification:Gotham Bold"
+         id="path4574"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 253.02105,380.66967 c 0.70261,0 1.34139,-0.15334 1.91633,-0.46002 0.57493,-0.30666 1.06369,-0.69951 1.46629,-1.17852 0.40258,-0.47901 0.71567,-1.01876 0.93931,-1.61923 0.22361,-0.60047 0.3354,-1.18826 0.33542,-1.76339 -2e-5,-0.49831 -0.0735,-0.9551 -0.22049,-1.37037 -0.14701,-0.41526 -0.36429,-0.77621 -0.65184,-1.08289 -0.28759,-0.30665 -0.64533,-0.54305 -1.07324,-0.70917 -0.42796,-0.16609 -0.91661,-0.24914 -1.46601,-0.24915 -0.70263,1e-5 -1.34141,0.15334 -1.91634,0.46 -0.57493,0.30668 -1.06369,0.69962 -1.46627,1.17881 -0.40259,0.47924 -0.7157,1.01905 -0.93932,1.61952 -0.22361,0.60048 -0.33542,1.1881 -0.33542,1.76281 0,0.49832 0.0735,0.95512 0.22049,1.37037 0.14701,0.41527 0.36427,0.77623 0.65185,1.08289 0.28757,0.30668 0.64531,0.54306 1.07325,0.70918 0.42794,0.16609 0.91658,0.24916 1.46599,0.24916 z m -0.34508,2.72141 c -0.91983,0 -1.75668,-0.15012 -2.51058,-0.45035 -0.75391,-0.30024 -1.39912,-0.71863 -1.93564,-1.25515 -0.53654,-0.53652 -0.95178,-1.16575 -1.24578,-1.88768 -0.29401,-0.72193 -0.44099,-1.50459 -0.44099,-2.348 0,-0.9966 0.19484,-1.9708 0.58458,-2.9226 0.38971,-0.95177 0.9392,-1.79819 1.64846,-2.53924 0.70926,-0.74102 1.55899,-1.33837 2.54918,-1.79205 0.99019,-0.45366 2.08576,-0.68049 3.2867,-0.68051 0.91981,2e-5 1.75666,0.15014 2.51059,0.45037 0.7539,0.30024 1.3991,0.71871 1.93564,1.25543 0.53651,0.53673 0.95177,1.16605 1.24577,1.88797 0.294,0.72195 0.44098,1.5044 0.441,2.3474 -2e-5,0.99663 -0.19488,1.97093 -0.58459,2.92292 -0.38971,0.95197 -0.93921,1.79847 -1.64847,2.53952 -0.70926,0.74103 -1.55899,1.33829 -2.54916,1.79175 -0.9902,0.45347 -2.08578,0.68022 -3.28671,0.68022 z"
+         style="font-size:48px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gotham Bold;-inkscape-font-specification:Gotham Bold"
+         id="path4576"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 268.18159,376.5112 c 0.98375,1e-5 1.77586,-0.20762 2.37635,-0.62289 0.60046,-0.41526 0.9007,-1.00618 0.90071,-1.77277 -10e-6,-0.44721 -0.14702,-0.81784 -0.44099,-1.11184 -0.20434,-0.20431 -0.45029,-0.35444 -0.73782,-0.45036 -0.28759,-0.0959 -0.65497,-0.14387 -1.10222,-0.14387 l -1.91603,0 -1.09256,4.10173 z m -3.14313,-6.76583 4.2544,0 c 0.95839,1e-5 1.77936,0.10548 2.46289,0.3164 0.68352,0.21095 1.26801,0.55916 1.75347,1.0446 0.69013,0.68977 1.03521,1.60978 1.03522,2.76002 -1e-5,0.83015 -0.16933,1.57108 -0.50796,2.22281 -0.33865,0.65175 -0.79867,1.20125 -1.38002,1.64847 -0.58138,0.44725 -1.26811,0.78579 -2.06023,1.01564 -0.79211,0.22986 -1.64827,0.3448 -2.56846,0.34479 l -2.5489,0 -1.09254,4.06312 -2.95127,0 z"
+         style="font-size:48px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gotham Bold;-inkscape-font-specification:Gotham Bold"
+         id="path4578"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 281.89749,376.26204 c 0.57511,10e-6 1.09585,-0.0703 1.5622,-0.21086 0.46633,-0.14054 0.8463,-0.35783 1.13993,-0.65183 0.3708,-0.37042 0.5562,-0.82409 0.55622,-1.36102 -2e-5,-0.43435 -0.14059,-0.79209 -0.4217,-1.07323 -0.37044,-0.37042 -1.02199,-0.55563 -1.95466,-0.55563 l -2.47285,0 -1.03464,3.85257 z m -3.83268,-6.51667 4.88662,0 c 0.99663,1e-5 1.84313,0.1118 2.53953,0.33541 0.69639,0.22363 1.26819,0.55907 1.71545,1.00629 0.68974,0.69015 1.03463,1.59086 1.03464,2.70212 -10e-6,0.65195 -0.10536,1.24618 -0.31612,1.78269 -0.21077,0.53653 -0.51422,1.00287 -0.91037,1.39903 -0.76658,0.76657 -1.80142,1.3031 -3.10451,1.60957 l 2.28042,4.58074 -3.35367,0 -2.06988,-4.29298 -2.2038,0 -1.15045,4.29298 -2.95128,0 z"
+         style="font-size:48px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gotham Bold;-inkscape-font-specification:Gotham Bold"
+         id="path4580"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 292.12345,369.74537 2.95126,0 -3.60282,13.41585 -2.95128,0 z"
+         style="font-size:48px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gotham Bold;-inkscape-font-specification:Gotham Bold"
+         id="path4582"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 300.24852,383.35305 c -2.61946,0 -4.56806,-0.82407 -5.84581,-2.47225 l 2.2231,-1.87863 c 0.53692,0.57513 1.1056,1.01282 1.70608,1.31305 0.60046,0.30023 1.28399,0.45035 2.05057,0.45035 0.60047,0 1.09234,-0.12778 1.47564,-0.38338 0.38328,-0.25558 0.57492,-0.59413 0.57493,-1.01562 -10e-6,-0.16611 -0.0351,-0.31624 -0.10524,-0.45036 -0.0703,-0.13414 -0.19156,-0.26827 -0.3641,-0.4024 -0.17254,-0.13413 -0.40569,-0.27469 -0.6995,-0.42171 -0.2938,-0.14698 -0.66432,-0.30997 -1.11155,-0.48895 -0.43437,-0.17857 -0.84964,-0.37333 -1.24579,-0.58428 -0.39617,-0.21094 -0.74756,-0.4601 -1.05424,-0.74747 -0.30667,-0.28737 -0.54939,-0.61635 -0.72816,-0.98698 -0.17879,-0.37061 -0.26817,-0.80507 -0.26817,-1.3034 0,-0.68975 0.14368,-1.3062 0.43105,-1.84936 0.28737,-0.54314 0.67387,-1.00637 1.15951,-1.38967 0.48566,-0.38328 1.05102,-0.67707 1.69613,-0.88142 0.64513,-0.20429 1.32544,-0.30645 2.04093,-0.30646 1.16273,1e-5 2.14658,0.17888 2.95157,0.53663 0.80499,0.35774 1.49483,0.84329 2.06959,1.45663 l -2.03127,2.03125 c -0.51119,-0.47256 -1.01273,-0.83031 -1.50459,-1.07323 -0.4919,-0.24291 -1.0636,-0.36437 -1.71515,-0.36438 -0.62622,1e-5 -1.10855,0.14379 -1.44698,0.43134 -0.33845,0.28757 -0.50766,0.59746 -0.50766,0.92967 0,0.17897 0.0382,0.33552 0.11496,0.46965 0.0766,0.13414 0.2043,0.26505 0.38309,0.39274 0.17876,0.12771 0.41828,0.26184 0.71852,0.40239 0.30022,0.14057 0.68039,0.30678 1.1405,0.49861 0.4601,0.19146 0.885,0.39578 1.27473,0.61296 0.38972,0.21717 0.72826,0.46634 1.01564,0.74746 0.28736,0.28113 0.5141,0.60701 0.68021,0.97762 0.16609,0.37062 0.24914,0.79864 0.24915,1.28409 -1e-5,0.70264 -0.1469,1.33186 -0.44071,1.88768 -0.2938,0.55584 -0.68352,1.02539 -1.16915,1.40868 -0.48566,0.38328 -1.05103,0.67397 -1.69614,0.87205 -0.64513,0.19806 -1.31899,0.2971 -2.02163,0.2971 z"
+         style="font-size:48px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gotham Bold;-inkscape-font-specification:Gotham Bold"
+         id="path4584"
+         inkscape:connector-curvature="0" />
+      <g
+         style="fill:#000000;font-family:Sans"
+         id="text4776">
+        <path
+           d="m 183.00745,377.72253 c 0.7202,10e-6 1.3723,-0.088 1.9563,-0.26403 0.58397,-0.17602 1.0598,-0.44811 1.42749,-0.81629 0.46434,-0.46386 0.69651,-1.03197 0.69653,-1.70434 -2e-5,-0.54394 -0.17604,-0.99193 -0.52808,-1.344 -0.46388,-0.46385 -1.27979,-0.69579 -2.44775,-0.6958 l -3.09668,0 -1.29566,4.82446 z m -4.79956,-8.16064 6.11938,0 c 1.24804,2e-5 2.30809,0.14003 3.18018,0.42004 0.87205,0.28005 1.58812,0.70009 2.14819,1.26014 0.86375,0.86427 1.29564,1.9922 1.29565,3.38378 -1e-5,0.81642 -0.13197,1.56056 -0.39587,2.23243 -0.26393,0.67188 -0.64394,1.25586 -1.14001,1.75195 -0.95998,0.95997 -2.25588,1.63184 -3.8877,2.01562 l 2.85571,5.73633 -4.1997,0 -2.59205,-5.37597 -2.75976,0 -1.44067,5.37597 -3.69581,0 z"
+           style="font-size:24px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;font-family:Gotham Bold;-inkscape-font-specification:'Gotham Bold, Bold Oblique'"
+           id="path4783"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 202.67737,379.3302 -0.76831,-5.5437 -3.6958,5.5437 z m -1.46411,-9.8877 3.55151,0 2.66455,16.91968 -3.79248,0 -0.52808,-3.76831 -7.10376,0 -2.5437,3.76831 -3.98437,0 z"
+           style="font-size:24px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;font-family:Gotham Bold;-inkscape-font-specification:'Gotham Bold, Bold Oblique'"
+           id="path4785"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 214.18811,369.56189 3.6958,0 -4.51172,16.80029 -3.6958,0 z"
+           style="font-size:24px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;font-family:Gotham Bold;-inkscape-font-specification:'Gotham Bold, Bold Oblique'"
+           id="path4787"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 222.08289,369.56189 3.6958,0 -3.59986,13.43994 650.45208,0 0,3.36035 -655.06048,0 z"
+           style="font-size:24px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;font-family:Gotham Bold;-inkscape-font-specification:'Gotham Bold, Bold Oblique'"
+           id="path4789"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+           d="m 751.1005,384.79744 129.93088,0"
+           id="path4955"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:'Gotham Medium,'"
+       x="738"
+       y="116.64895"
+       id="text4827"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4829"
+         x="738"
+         y="116.64895">X Line</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-opacity:1"
+       id="rect4835"
+       width="711"
+       height="936.00134"
+       x="27"
+       y="27.000179"
+       transform="translate(0,62.362004)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4839"
+       y="129.12688"
+       x="718.875"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Book;-inkscape-font-specification:Gotham Book"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Gotham Medium;-inkscape-font-specification:'Gotham Medium,'"
+         y="129.12688"
+         x="718.875"
+         id="tspan4841"
+         sodipodi:role="line">Service to Xanadu</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5240"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Gotham Medium;font-style:normal;font-weight:normal;font-size:8px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans;text-anchor:middle;text-align:center"><flowRegion
+         id="flowRegion5242"><rect
+           id="rect5244"
+           width="129.93088"
+           height="63.462833"
+           x="234.93623"
+           y="725.54205"
+           style="font-style:normal;-inkscape-font-specification:Sans;font-size:8px" /></flowRegion><flowPara
+         id="flowPara5246" /></flowRoot>    <rect
+       style="fill:#000000;fill-opacity:0.08465606;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4843"
+       width="186.67619"
+       height="229.1026"
+       x="128.20267"
+       y="496.33304" />
+    <rect
+       y="496.33304"
+       x="128.20267"
+       height="22.741383"
+       width="186.67619"
+       id="rect4845"
+       style="fill:#000000;fill-opacity:0.08465606;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4847"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Gotham Medium"
+       transform="translate(-402.12742,-222.84505)"><flowRegion
+         id="flowRegion4849"><rect
+           id="rect4851"
+           width="187"
+           height="28.75"
+           x="530.25"
+           y="719" /></flowRegion><flowPara
+         id="flowPara4853"
+         style="font-size:18px;font-style:normal;font-weight:normal;-inkscape-font-specification:'Gotham Medium,'">Legend</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 135.98084,562.38422 0,39.37313"
+       id="path4855"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4857"
+       d="m 135.98084,526.73865 0,16.61701"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4859"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Gotham Medium"
+       transform="translate(-402.12742,-222.84505)"><flowRegion
+         id="flowRegion4861"><rect
+           id="rect4863"
+           width="166.8772"
+           height="194.10081"
+           x="544.47223"
+           y="749.93726"
+           style="text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4865">Planned / Construction</flowPara><flowPara
+         id="flowPara5259">Single Line</flowPara><flowPara
+         id="flowPara5261">Full Line</flowPara><flowPara
+         id="flowPara5267">Station / Stop</flowPara><flowPara
+         id="flowPara4261">Minor Station</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 2;stroke-dashoffset:0;marker-mid:url(#Tail)"
+       d="m 135.98084,542.91372 0,20.4177"
+       id="path4867"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path5265"
+       sodipodi:cx="538.28503"
+       sodipodi:cy="804.75"
+       sodipodi:rx="4.7149587"
+       sodipodi:ry="4.7149587"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       transform="translate(-402.12742,-224.97005)" />
+    <path
+       transform="matrix(0.62884086,0,0,0.62884086,-202.33801,89.095259)"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       sodipodi:ry="4.7149587"
+       sodipodi:rx="4.7149587"
+       sodipodi:cy="804.75"
+       sodipodi:cx="538.28503"
+       id="path4265"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <g
+       id="g5353"
+       transform="translate(-402.12742,-285.20706)">
+      <rect
+         y="900.17395"
+         x="536.64417"
+         height="81.25"
+         width="162.5"
+         id="rect4267"
+         style="fill:none;stroke:#000000;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4269"
+         y="911.26233"
+         x="552.48218"
+         style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         xml:space="preserve"><tspan
+           y="911.26233"
+           x="552.48218"
+           id="tspan4271"
+           sodipodi:role="line">Station Name</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4273"
+         d="m 536.86292,914.92393 162.40625,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/diamond_block.png"
+         xlink:href="images/diamond_block.png"
+         height="12.8"
+         width="12.8"
+         id="image5161"
+         x="538.28503"
+         y="900.96423" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+         xlink:href="images/emerald_block.png"
+         y="916.25592"
+         x="684.91003"
+         id="image5164"
+         width="12.8"
+         height="12.8" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+         xlink:href="images/pumpkin_face_on.png"
+         height="12.8"
+         width="12.8"
+         id="image5172"
+         x="669.16003"
+         y="916.25592" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+         xlink:href="images/bucket_water.png"
+         y="953.67255"
+         x="684.91003"
+         id="image5174"
+         width="12.8"
+         height="12.8" />
+      <image
+         sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+         xlink:href="images/rail_normal.png"
+         height="12.8"
+         width="12.8"
+         id="image5176"
+         x="684.91003"
+         y="967.33923" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5178"
+         y="928.112"
+         x="558.83917"
+         style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         xml:space="preserve"><tspan
+           style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'"
+           y="928.112"
+           x="558.83917"
+           id="tspan5180"
+           sodipodi:role="line">Community Feature</tspan><tspan
+           style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'"
+           id="tspan5182"
+           y="938.112"
+           x="558.83917"
+           sodipodi:role="line">Player Home</tspan><tspan
+           style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'"
+           id="tspan5184"
+           y="948.112"
+           x="558.83917"
+           sodipodi:role="line">Village</tspan><tspan
+           style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'"
+           id="tspan5186"
+           y="958.112"
+           x="558.83917"
+           sodipodi:role="line">Locomotive Rewatering</tspan><tspan
+           style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'"
+           id="tspan5188"
+           y="968.112"
+           x="558.83917"
+           sodipodi:role="line">Number of Sidings</tspan></text>
+      <path
+         transform="translate(0,62.362004)"
+         inkscape:connector-curvature="0"
+         id="path5190"
+         d="m 558.5,863.375 -9.875,0 -3.75,-16.5"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(0,62.362004)"
+         inkscape:connector-curvature="0"
+         id="path5192"
+         d="m 611.75,873.875 57.25,0 4,-10"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(0,62.362004)"
+         inkscape:connector-curvature="0"
+         id="path5194"
+         d="m 587.5,883.625 99.25,0 5.875,-20.875"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(0,62.362004)"
+         inkscape:connector-curvature="0"
+         id="path5196"
+         d="m 656.625,893.625 28.375,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(0,62.362004)"
+         inkscape:connector-curvature="0"
+         id="path5198"
+         d="m 635,903.875 43.125,0 6.25,7.375"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:oblique;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="311.84708"
+       y="722.784"
+       id="text5375"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5377"
+         x="311.84708"
+         y="722.784">Map Revised 20 Dec 2013</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="136.15762"
+       y="702.92963"
+       id="text3112"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3114"
+         x="136.15762"
+         y="702.92963"
+         style="font-size:8px">Ticket Identifier</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 2;stroke-dashoffset:0;marker-end:url(#Arrow1Lend)"
+       d="m 131.80718,208.612 318.54351,0 L 450,919.362"
+       id="path3116"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path5265-1"
+       sodipodi:cx="538.28503"
+       sodipodi:cy="804.75"
+       sodipodi:rx="4.7149587"
+       sodipodi:ry="4.7149587"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       transform="translate(-406.11464,-595.78961)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path5265-7"
+       sodipodi:cx="538.28503"
+       sodipodi:cy="804.75"
+       sodipodi:rx="4.7149587"
+       sodipodi:ry="4.7149587"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       transform="translate(-87.65142,-596.23157)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path5265-4"
+       sodipodi:cx="538.28503"
+       sodipodi:cy="804.75"
+       sodipodi:rx="4.7149587"
+       sodipodi:ry="4.7149587"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       transform="translate(-87.65142,-493.48308)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path5265-0"
+       sodipodi:cx="538.28503"
+       sodipodi:cy="804.75"
+       sodipodi:rx="4.7149587"
+       sodipodi:ry="4.7149587"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       transform="translate(-87.65142,-185.23759)" />
+    <path
+       transform="matrix(0.62884086,0,0,0.62884086,112.13799,-93.794268)"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       sodipodi:ry="4.7149587"
+       sodipodi:rx="4.7149587"
+       sodipodi:cy="804.75"
+       sodipodi:cx="538.28503"
+       id="path4265-9"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(0.62884086,0,0,0.62884086,112.13799,8.9542329)"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       sodipodi:ry="4.7149587"
+       sodipodi:rx="4.7149587"
+       sodipodi:cy="804.75"
+       sodipodi:cx="538.28503"
+       id="path4265-4"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(0.62884086,0,0,0.62884086,112.13799,214.45122)"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       sodipodi:ry="4.7149587"
+       sodipodi:rx="4.7149587"
+       sodipodi:cy="804.75"
+       sodipodi:cx="538.28503"
+       id="path4265-8"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(0.62884086,0,0,0.62884086,112.13799,317.19972)"
+       d="m 542.99999,804.75 a 4.7149587,4.7149587 0 1 1 -9.42991,0 4.7149587,4.7149587 0 1 1 9.42991,0 z"
+       sodipodi:ry="4.7149587"
+       sodipodi:rx="4.7149587"
+       sodipodi:cy="804.75"
+       sodipodi:cx="538.28503"
+       id="path4265-82"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <g
+       transform="translate(-93.46141,-554.18506)"
+       id="g3978-4">
+      <g
+         id="g5331-5">
+        <rect
+           y="771.83411"
+           x="233.64891"
+           height="81.25"
+           width="162.5"
+           id="rect5200-5"
+           style="fill:none;stroke:#000000;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text5202-1"
+           y="782.92249"
+           x="239.48692"
+           style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+           xml:space="preserve"><tspan
+             y="782.92249"
+             x="239.48692"
+             id="tspan5204-7"
+             sodipodi:role="line">   Spawn</tspan></text>
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path5206-1"
+           d="m 233.86766,786.58405 162.40625,0"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5208-1"
+           x="235.28978"
+           y="772.62439"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/diamond_block.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/diamond_block.png" />
+        <image
+           y="787.91608"
+           x="381.91479"
+           id="image5210-5"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+           style="opacity:0.25" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5212-2"
+           x="366.16479"
+           y="787.91608"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+           style="opacity:0.25" />
+        <image
+           y="825.3327"
+           x="381.91479"
+           id="image5214-7"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+           style="opacity:0.25" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5216-6"
+           x="381.91479"
+           y="838.99939"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5248-1"
+           style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
+           transform="translate(0,62.362004)"><flowRegion
+             id="flowRegion5250-4"><rect
+               id="rect5252-2"
+               width="129.40054"
+               height="63.993164"
+               x="235.28978"
+               y="725.18854"
+               style="font-size:8px;font-style:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+             id="flowPara5254-3">Station located just north of Spawn Fort, with quick access to most server features.</flowPara></flowRoot>        <image
+           y="838.99939"
+           x="367.29285"
+           id="image5256-2"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5258-2"
+           x="352.67087"
+           y="838.99939"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png" />
+        <image
+           y="838.99939"
+           x="338.04892"
+           id="image5260-1"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5262-6"
+           x="323.42697"
+           y="838.99939"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3104-6"
+         y="860.73608"
+         x="234.17142"
+         style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         xml:space="preserve"><tspan
+           style="font-size:8px"
+           y="860.73608"
+           x="234.17142"
+           id="tspan3106-1"
+           sodipodi:role="line">SRS/Overworld/X/Spawn</tspan></text>
+    </g>
+    <g
+       transform="translate(222.03859,-450.9614)"
+       id="g3978-8">
+      <g
+         id="g5331-9">
+        <rect
+           y="771.83411"
+           x="233.64891"
+           height="81.25"
+           width="162.5"
+           id="rect5200-2"
+           style="fill:none;stroke:#000000;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text5202-7"
+           y="782.92249"
+           x="239.48692"
+           style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+           xml:space="preserve"><tspan
+             y="782.92249"
+             x="239.48692"
+             id="tspan5204-9"
+             sodipodi:role="line">Inissfree Village</tspan></text>
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path5206-5"
+           d="m 233.86766,786.58405 162.40625,0"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <image
+           y="787.91608"
+           x="381.91479"
+           id="image5210-3"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5212-1"
+           x="366.16479"
+           y="787.91608"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png" />
+        <image
+           y="825.3327"
+           x="381.91479"
+           id="image5214-2"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+           style="opacity:0.25" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5216-3"
+           x="381.91479"
+           y="838.99939"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot5248-3"
+           style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans"
+           transform="translate(0,62.362004)"><flowRegion
+             id="flowRegion5250-41"><rect
+               id="rect5252-1"
+               width="129.40054"
+               height="63.993164"
+               x="235.28978"
+               y="725.18854"
+               style="font-size:8px;font-style:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+             id="flowPara5254-38">Ground service to nearby Inissfree and Arac Mesa.</flowPara></flowRoot>      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3104-1"
+         y="860.73608"
+         x="234.17142"
+         style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         xml:space="preserve"><tspan
+           style="font-size:8px"
+           y="860.73608"
+           x="234.17142"
+           id="tspan3106-9"
+           sodipodi:role="line">SRS/Overworld/X/Inissfree</tspan></text>
+    </g>
+    <g
+       transform="translate(222.03859,-60.768326)"
+       id="g4003-8">
+      <g
+         transform="translate(0,27.223611)"
+         id="g5318-6">
+        <rect
+           style="fill:none;stroke:#000000;stroke-opacity:1"
+           id="rect5274-5"
+           width="162.5"
+           height="30.515089"
+           x="233.64891"
+           y="864.83411" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+           x="239.48692"
+           y="875.92249"
+           id="text5276-0"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5278-2"
+             x="239.48692"
+             y="875.92249">KM 3.41 Water Stop</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 233.86766,879.58405 162.40625,0"
+           id="path5280-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5284-0"
+           x="381.91479"
+           y="880.91608"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+           style="opacity:0.25" />
+        <image
+           y="880.91608"
+           x="366.91681"
+           id="image5286-2"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+           style="opacity:0.25" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5288-4"
+           x="351.91885"
+           y="880.91608"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png" />
+        <image
+           y="880.91608"
+           x="234.92087"
+           id="image5302-8"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+           x="248.59186"
+           y="893.5495"
+           id="text5314-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5316-5"
+             x="248.59186"
+             y="893.5495"
+             style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'">x0</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(222.03859,-162.85168)"
+       id="g4003-0">
+      <g
+         transform="translate(0,27.223611)"
+         id="g5318-0">
+        <rect
+           style="fill:none;stroke:#000000;stroke-opacity:1"
+           id="rect5274-6"
+           width="162.5"
+           height="30.515089"
+           x="233.64891"
+           y="864.83411" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+           x="239.48692"
+           y="875.92249"
+           id="text5276-1"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5278-3"
+             x="239.48692"
+             y="875.92249">KM 2.16 Water Stop</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 233.86766,879.58405 162.40625,0"
+           id="path5280-89"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5284-4"
+           x="381.91479"
+           y="880.91608"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+           style="opacity:0.25" />
+        <image
+           y="880.91608"
+           x="366.91681"
+           id="image5286-4"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+           style="opacity:0.25" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5288-6"
+           x="351.91885"
+           y="880.91608"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png" />
+        <image
+           y="880.91608"
+           x="234.92087"
+           id="image5302-0"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+           x="248.59186"
+           y="893.5495"
+           id="text5314-66"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5316-1"
+             x="248.59186"
+             y="893.5495"
+             style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'">x0</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(222.03859,-264.93502)"
+       id="g4003-9">
+      <g
+         transform="translate(0,27.223611)"
+         id="g5318-63">
+        <rect
+           style="fill:none;stroke:#000000;stroke-opacity:1"
+           id="rect5274-7"
+           width="162.5"
+           height="30.515089"
+           x="233.64891"
+           y="864.83411" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+           x="239.48692"
+           y="875.92249"
+           id="text5276-8"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5278-8"
+             x="239.48692"
+             y="875.92249">Tellurium</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 233.86766,879.58405 162.40625,0"
+           id="path5280-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5284-1"
+           x="381.91479"
+           y="880.91608"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png" />
+        <image
+           y="880.91608"
+           x="366.91681"
+           id="image5286-3"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+           style="opacity:0.25" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5288-5"
+           x="351.91885"
+           y="880.91608"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+           style="opacity:0.25" />
+        <image
+           y="880.91608"
+           x="234.92087"
+           id="image5302-9"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+           x="248.59186"
+           y="893.5495"
+           id="text5314-8"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5316-4"
+             x="248.59186"
+             y="893.5495"
+             style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'">x1</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         x="234.17142"
+         y="929.67902"
+         id="text3108-07"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3110-6"
+           x="234.17142"
+           y="929.67902"
+           style="font-size:8px">SRS/Overworld/X/Tellurium</tspan></text>
+    </g>
+    <g
+       transform="translate(222.03859,-367.01832)"
+       id="g4003-3">
+      <g
+         transform="translate(0,27.223611)"
+         id="g5318-61">
+        <rect
+           style="fill:none;stroke:#000000;stroke-opacity:1"
+           id="rect5274-54"
+           width="162.5"
+           height="30.515089"
+           x="233.64891"
+           y="864.83411" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+           x="239.48692"
+           y="875.92249"
+           id="text5276-2"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5278-0"
+             x="239.48692"
+             y="875.92249">Crystallia</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 233.86766,879.58405 162.40625,0"
+           id="path5280-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5284-3"
+           x="381.91479"
+           y="880.91608"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png" />
+        <image
+           y="880.91608"
+           x="366.91681"
+           id="image5286-7"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+           style="opacity:0.25" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5288-2"
+           x="351.91885"
+           y="880.91608"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+           style="opacity:0.25" />
+        <image
+           y="880.91608"
+           x="234.92087"
+           id="image5302-6"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+           x="248.59186"
+           y="893.5495"
+           id="text5314-0"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5316-16"
+             x="248.59186"
+             y="893.5495"
+             style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'">x1</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         x="234.17142"
+         y="929.67902"
+         id="text3108-5"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3110-7"
+           x="234.17142"
+           y="929.67902"
+           style="font-size:8px">SRS/Overworld/X/Crystallia</tspan></text>
+    </g>
+    <g
+       transform="translate(222.03859,-469.10166)"
+       id="g4003-5">
+      <g
+         transform="translate(0,27.223611)"
+         id="g5318-4">
+        <rect
+           style="fill:none;stroke:#000000;stroke-opacity:1"
+           id="rect5274-1"
+           width="162.5"
+           height="30.515089"
+           x="233.64891"
+           y="864.83411" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+           x="239.48692"
+           y="875.92249"
+           id="text5276-20"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5278-01"
+             x="239.48692"
+             y="875.92249">KM 1.23 Water Stop</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 233.86766,879.58405 162.40625,0"
+           id="path5280-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5284-7"
+           x="381.91479"
+           y="880.91608"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+           style="opacity:0.25" />
+        <image
+           y="880.91608"
+           x="366.91681"
+           id="image5286-1"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+           style="opacity:0.25" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5288-7"
+           x="351.91885"
+           y="880.91608"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png" />
+        <image
+           y="880.91608"
+           x="234.92087"
+           id="image5302-7"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+           x="248.59186"
+           y="893.5495"
+           id="text5314-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5316-7"
+             x="248.59186"
+             y="893.5495"
+             style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'">x0</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(222.03859,-673.26833)"
+       id="g4003-59">
+      <g
+         transform="translate(0,27.223611)"
+         id="g5318-9">
+        <rect
+           style="fill:none;stroke:#000000;stroke-opacity:1"
+           id="rect5274-8"
+           width="162.5"
+           height="30.515089"
+           x="233.64891"
+           y="864.83411" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+           x="239.48692"
+           y="875.92249"
+           id="text5276-18"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5278-26"
+             x="239.48692"
+             y="875.92249">Lady Actaeon Vanilla Hut</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 233.86766,879.58405 162.40625,0"
+           id="path5280-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5284-38"
+           x="381.91479"
+           y="880.91608"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/emerald_block.png"
+           style="opacity:0.25" />
+        <image
+           y="880.91608"
+           x="366.91681"
+           id="image5286-0"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/pumpkin_face_on.png" />
+        <image
+           height="12.8"
+           width="12.8"
+           id="image5288-1"
+           x="351.91885"
+           y="880.91608"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/bucket_water.png"
+           style="opacity:0.25" />
+        <image
+           y="880.91608"
+           x="234.92087"
+           id="image5302-2"
+           width="12.8"
+           height="12.8"
+           xlink:href="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png"
+           sodipodi:absref="C:\Users\Sylae\Documents\GitHub\sopris-rail\images/rail_normal.png" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+           x="248.59186"
+           y="893.5495"
+           id="text5314-5"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5316-0"
+             x="248.59186"
+             y="893.5495"
+             style="font-size:8px;font-style:normal;-inkscape-font-specification:'Gotham Medium,'">x1</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:oblique;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+         x="234.17142"
+         y="929.67902"
+         id="text3108-9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3110-47"
+           x="234.17142"
+           y="929.67902"
+           style="font-size:8px">SRS/Overworld/X/LAVH</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:oblique;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="450.42703"
+       y="934.27521"
+       id="text4710"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4712"
+         x="450.42703"
+         y="934.27521">Xanadu STD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:oblique;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="280"
+       y="143"
+       id="text4714"
+       sodipodi:linespacing="125%"
+       transform="translate(0,62.362004)"><tspan
+         sodipodi:role="line"
+         id="tspan4716"
+         x="280"
+         y="143">0.49 km</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:oblique;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="446"
+       y="286.36203"
+       id="text4718"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4720"
+         x="446"
+         y="286.36203">0.30 km</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:oblique;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="446"
+       y="383.27869"
+       id="text4722"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4724"
+         x="446"
+         y="383.27869">0.44 km</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:oblique;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="446"
+       y="480.19534"
+       id="text4726"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4728"
+         x="446"
+         y="480.19534">0.26 km</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:oblique;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="446"
+       y="577.112"
+       id="text4730"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4732"
+         x="446"
+         y="577.112">0.44 km</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:oblique;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="446"
+       y="674.02869"
+       id="text4734"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4736"
+         x="446"
+         y="674.02869">0.23 km</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:oblique;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="446"
+       y="770.94934"
+       id="text4738"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4740"
+         x="446"
+         y="770.94934">1.25 km</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:oblique;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Medium;-inkscape-font-specification:Sans Oblique"
+       x="446"
+       y="867.862"
+       id="text4742"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4744"
+         x="446"
+         y="867.862">0.2 km</tspan></text>
+  </g>
+</svg>
